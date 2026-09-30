@@ -14,14 +14,13 @@ statt als Absatz in einer Richtlinie.
 | | |
 |---|---|
 | **[hallenbuch](https://github.com/Fynaxa/hallenbuch)** | Fahrzeugerfassung und Sammelabrechnung, im Kundenauftrag gebaut. E-Rechnung nach EN 16931, systemd, 329 Tests. Reine Standardbibliothek. |
-| **[fibu-agent](https://github.com/Fynaxa/fibu-agent)** | Laufende Buchführung vom Belegeingang bis zum DATEV-Buchungsstapel: dreistufige Kontierung, Rückfrage-Queue, Docker, 14 n8n-Workflows. **Läuft live unter [app.fynaxa.de](https://app.fynaxa.de)**, Demo-Zugang auf Anfrage. |
+| **[fibu-agent](https://github.com/Fynaxa/fibu-agent)** | Laufende Buchführung vom Belegeingang bis zum DATEV-Buchungsstapel: vierstufige Kontierung, Rückfrage-Queue, Docker, 14 n8n-Workflows. **Läuft live unter [app.fynaxa.de](https://app.fynaxa.de)**, Demo-Zugang auf Anfrage. |
 | **[lead-response-case](https://github.com/Fynaxa/lead-response-case)** | Fallstudie zu einem System mit rund 35.000 Zeilen, das Anfragen über WhatsApp, Mail und Formular beantwortet und Termine bucht. Kein Quelltext, keine Kundendaten — nur die Entscheidungen. |
 | **[whatsapp-starter](https://github.com/Fynaxa/whatsapp-starter)** | Die Schicht unter einem WhatsApp-Bot: Signaturprüfung, doppelte Zustellungen, das 24-Stunden-Fenster. Das, was langweilig zu schreiben und teuer zu debuggen ist. |
 | **[inbox-automation](https://github.com/Fynaxa/inbox-automation)** | Postfach überwachen, Mail nach Regeln einordnen, Felder herausziehen, Aktionen auslösen. Keine Mail wird zweimal verarbeitet, auch nach einem Absturz nicht. |
 | **[table-pipeline](https://github.com/Fynaxa/table-pipeline)** | Die CSV- und Excel-Dateien, die Kunden tatsächlich schicken: falsch deklarierte Kodierung, deutsche Dezimaltrennzeichen, verschobene Kopfzeilen. Stimmen die Zeilenzahlen am Ende nicht, bricht der Lauf ab. |
 
-**576 automatische Tests** über alle Projekte, dazu 58 Prüfungen in Node, überwiegend gegen Fehlerfälle: API-Ausfälle,
-halbe Schreibvorgänge, doppelte Webhooks, abgelaufene Zugänge. Ein System davon läuft öffentlich erreichbar im Dauerbetrieb.
+**576 automatische Tests, alle offline lauffähig. Ein System davon läuft öffentlich erreichbar im Dauerbetrieb.
 
 ### Wie ich arbeite
 
