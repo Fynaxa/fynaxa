@@ -20,7 +20,7 @@ statt als Absatz in einer Richtlinie.
 | **[inbox-automation](https://github.com/Fynaxa/inbox-automation)** | Postfach überwachen, Mail nach Regeln einordnen, Felder herausziehen, Aktionen auslösen. Keine Mail wird zweimal verarbeitet, auch nach einem Absturz nicht. |
 | **[table-pipeline](https://github.com/Fynaxa/table-pipeline)** | Die CSV- und Excel-Dateien, die Kunden tatsächlich schicken: falsch deklarierte Kodierung, deutsche Dezimaltrennzeichen, verschobene Kopfzeilen. Stimmen die Zeilenzahlen am Ende nicht, bricht der Lauf ab. |
 
-**576 automatische Tests, alle offline lauffähig. Ein System davon läuft öffentlich erreichbar im Dauerbetrieb.
+576 automatische Tests, alle offline lauffähig. Ein System davon läuft öffentlich erreichbar im Dauerbetrieb.
 
 ### Wie ich arbeite
 
