@@ -1,8 +1,8 @@
 # Konstantin Konradi
 
-Ich baue Software für kleine Betriebe — die Sorte, die jeden Tag benutzt wird und
-nicht ausfallen darf. Selbst beigebracht, kein Studium, seit Mai 2026 mit eigenem
-Gewerbe.
+Ich baue Software für Betriebe. Seit Mai 2026 mit einem eigenen Unternehmen,
+Fynaxa, über das ich Kunden betreue — von der Aufnahme des Ablaufs im Betrieb bis
+zum laufenden Dienst.
 
 Was ich für zeigbar halte, liegt hier. Der rote Faden ist nicht eine Sprache oder
 ein Framework, sondern die langweiligen Teile: Idempotenz, Protokolle, ein Weg
@@ -38,6 +38,6 @@ Business API, IMAP/SMTP, Google Calendar, Lexware Office. DSGVO Art. 28,
 § 7 UWG, AI Act Art. 50, GoBD, EN 16931 — nicht als Schlagworte, sondern weil sie
 bestimmen, was das System darf.
 
-### Erreichbar
+### Erreichbarkeit
 
-konstantinkonradi6@gmail.com
+info@fynaxa.de
